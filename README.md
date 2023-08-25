@@ -23,7 +23,11 @@ This is a basic implementation of the Rock-Paper-Scissors game in Python. You ca
 1. Make sure you have Python installed on your system.
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the script.
-4. Run the script using the command:
+4. Run the script using the command: `python main.py`
+
+## Play on Replit
+
+Test the game on [Replit](https://replit.com/@joshuadanpeters/RockPaperScissors)
 
 ## Contributions
 
