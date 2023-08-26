@@ -2,9 +2,12 @@
 /__pycache__/
 
 # Ignore Replit Packager files
-.lock
-.toml
+*.lock
+*.toml
 
 # Ignore Replit config files
-.replit
-.nix
+*.replit
+*.nix
+
+# Ignore breakpoints
+*.breakpoints
