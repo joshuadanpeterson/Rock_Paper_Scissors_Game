@@ -1,2 +1,10 @@
 # Ignore __pycache__
 /__pycache__/
+
+# Ignore Replit Packager files
+.lock
+.toml
+
+# Ignore Replit config files
+.replit
+.nix
