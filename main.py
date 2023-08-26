@@ -1,4 +1,7 @@
 import random
+from game_description import description
+
+print(description)
 
 choices = ['rock', 'paper', 'scissors']
 user_score = 0
