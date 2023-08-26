@@ -24,10 +24,10 @@ while True:
   elif (user_choice == 'rock' and computer_choice == 'scissors') or \
        (user_choice == 'paper' and computer_choice == 'rock') or \
        (user_choice == 'scissors' and computer_choice == 'paper'):
-    print("You win!")
+    print("You win!\n")
     user_score += 1
   else:
-    print("Computer wins!")
+    print("Computer wins!\n")
     computer_score += 1
 
   print(f"Current score: You {user_score}, Computer {computer_score}")
