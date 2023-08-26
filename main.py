@@ -1,5 +1,5 @@
 import random
-from game_description import description
+from modules.game_description import description
 
 print(description)
 
